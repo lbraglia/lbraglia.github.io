@@ -15,11 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Luca Braglia
 email: lbraglia@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  # asd
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lucailgarb
 github_username:  lbraglia
 
 # Build settings
