@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to contact me
+title: Contacts
 permalink: /contacts/
 ---
 
