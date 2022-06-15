@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /resources/
-published: false
 ---
 
 ### Resources
