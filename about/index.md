@@ -1,3 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+
+
 ### How to contact me
 
 [e-mail](mailto:lbraglia@gmail.com) / [GitHub](http://github.com/lbraglia)
