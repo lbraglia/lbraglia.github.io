@@ -19,6 +19,13 @@ API](http://core.telegram.org/bots/api). It allows to send messages
 [openxlsx](https://CRAN.R-project.org/package=openxlsx) (contributor):
 read/write `xlsx` file in R.
 
+### Python packages
+
+[xlcrf](https://gihub.com/lbraglia/xlcrf): a tool (library + command
+line script) to create xlsx files for data collection with input
+validation, given a standard description of the dataset (xlsx file as
+well).
+
 
 ### Web apps
 
