@@ -32,5 +32,9 @@ well).
 [rioweb](https://gallery.shinyapps.io/rioweb): a free, simple, file
 transfer service for common statistical file formats. 
 
+[webxlcrf](https://share.streamlit.io/lbraglia/webxlcrf/main):
+basically [xlcrf](https://pypi.org/project/xlcrf/), but repacked as an
+online [streamlit](https://streamlit.io) service.
+
 [ifndemo](https://lbraglia.shinyapps.io/ifndemo): an old journals
  impact factor explorer (with data from 2014!).
