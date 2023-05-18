@@ -9,7 +9,7 @@ def print_docindex(outfile = 'doc/index.md'):
     with open(outfile, 'w') as f:
         # redirect standard output to file
         sys.stdout = f
-        print("# doc\n")
+        # print("# doc\n")
         for root, dirs, files in os.walk("doc"):
             level = root.replace("doc", '').count(os.sep) - 1 
             if level == -1: # non mostrare doc

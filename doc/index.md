@@ -1,5 +1,3 @@
-# doc
-
 ## misc 
 
 - [canzoniere.pdf](misc/canzoniere.pdf)
