@@ -15,7 +15,7 @@ def print_docindex(outfile = 'doc/index.md'):
             if level == -1: # non mostrare doc
                 continue
             # print directory as subtitle
-            print("## {0} \n".format(os.path.basename(root)))
+            print("{0} \n".format(os.path.basename(root)))
             # print file and links
             for f in files:
                 print('- [{}]({})'.format(f, os.path.join(os.path.basename(root), f)))

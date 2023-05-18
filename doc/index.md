@@ -1,10 +1,10 @@
-## misc 
+misc 
 
 - [canzoniere.pdf](misc/canzoniere.pdf)
 - [ricettario.pdf](misc/ricettario.pdf)
 
 
-## notes 
+notes 
 
 - [sql.pdf](notes/sql.pdf)
 - [r.pdf](notes/r.pdf)
@@ -12,7 +12,7 @@
 - [c.pdf](notes/c.pdf)
 
 
-## dae 
+dae 
 
 - [test.txt](dae/test.txt)
 
