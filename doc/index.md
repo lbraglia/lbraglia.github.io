@@ -9,11 +9,18 @@ dae
 - [test.txt](dae/test.txt)
 
 
-notes 
+math 
 
-- [python.pdf](notes/python.pdf)
-- [r.pdf](notes/r.pdf)
-- [sql.pdf](notes/sql.pdf)
-- [c.pdf](notes/c.pdf)
+- [linear_algebra.pdf](math/linear_algebra.pdf)
+- [calculus.pdf](math/calculus.pdf)
+- [precalculus.pdf](math/precalculus.pdf)
+
+
+cs 
+
+- [python.pdf](cs/python.pdf)
+- [r.pdf](cs/r.pdf)
+- [sql.pdf](cs/sql.pdf)
+- [c.pdf](cs/c.pdf)
 
 
