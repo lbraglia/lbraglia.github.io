@@ -1,36 +1,31 @@
 name: update index
 
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
-  deploy:
+  
+  index:
+
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-
-      - name: checkout repo content
+      - name: Checkout repo content
         uses: actions/checkout@v3
-
-      - name: setup python
+      - name: Setup Python
         uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-          
-      - name: execute py script
+	with: python-version: '3.x'
+      - name: Execute py script
         run: python main.py
-          
-      - name: commit files
+      - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated index" --allow-empty)
-          
-      - name: push changes
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
