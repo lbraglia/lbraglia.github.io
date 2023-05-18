@@ -1,3 +1,8 @@
-lalalalal
+---
+layout: page
+---
 
-[dae](dae)
+- [notes](notes)
+
+- [dae](dae)
+
