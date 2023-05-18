@@ -1,7 +1,5 @@
 import os
 
-outfile = "doc/index.md"
-
 # https://stackoverflow.com/questions/9727673/ with little changes
 def list_files(startpath = "doc"):
     for root, dirs, files in os.walk(startpath):
@@ -15,7 +13,7 @@ def list_files(startpath = "doc"):
             print('-{}[{}]({})'.format(
                 subindent, f,
                 os.path.join(os.path.basename(root), f)))
-
+        print("\n")
             
             
 if __name__ == '__main__':
