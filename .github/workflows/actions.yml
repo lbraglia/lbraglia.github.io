@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10' # install the python version needed
           
       - name: execute py script # run main.py
-        run: python main.py > doc/index.md
+        run: python main.py
           
       - name: commit files
         run: |
