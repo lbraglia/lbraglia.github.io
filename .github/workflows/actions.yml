@@ -14,18 +14,22 @@ jobs:
     steps:
       - name: Checkout repo content
         uses: actions/checkout@v3
-      - name: Setup Python
+
+      - name: Set up Python
         uses: actions/setup-python@v4
-	with:
-	  python-version: '3.x'
+        with:
+          python-version: '3.x'
+
       - name: Execute py script
         run: python main.py
+
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated index" --allow-empty)
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
