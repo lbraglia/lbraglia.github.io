@@ -1,15 +1,12 @@
 import os
 import sys
 
-
-# https://stackoverflow.com/questions/9727673/ with little changes
 def update_docindex(outfile = 'doc/index.md'):
-
+    # save stdout
     original_stdout = sys.stdout
     with open(outfile, 'w') as f:
         # redirect standard output to file
         sys.stdout = f
-        # print("# doc\n") # non mettere titoli o sottotitoli
         for root, dirs, files in os.walk("doc"):
             level = root.replace("doc", '').count(os.sep) - 1 
             if level == -1: # non mostrare doc
