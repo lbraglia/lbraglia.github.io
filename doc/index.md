@@ -1,19 +1,19 @@
 misc 
 
-- [canzoniere.pdf](misc/canzoniere.pdf)
 - [ricettario.pdf](misc/ricettario.pdf)
-
-
-notes 
-
-- [sql.pdf](notes/sql.pdf)
-- [r.pdf](notes/r.pdf)
-- [python.pdf](notes/python.pdf)
-- [c.pdf](notes/c.pdf)
+- [canzoniere.pdf](misc/canzoniere.pdf)
 
 
 dae 
 
 - [test.txt](dae/test.txt)
+
+
+notes 
+
+- [python.pdf](notes/python.pdf)
+- [r.pdf](notes/r.pdf)
+- [sql.pdf](notes/sql.pdf)
+- [c.pdf](notes/c.pdf)
 
 
