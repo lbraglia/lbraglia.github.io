@@ -7,7 +7,6 @@ misc
 dae 
 
 - [lm.pdf](dae/lm.pdf)
-- [test.txt](dae/test.txt)
 
 
 math 
