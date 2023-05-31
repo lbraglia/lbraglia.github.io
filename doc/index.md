@@ -6,6 +6,7 @@ misc
 
 dae 
 
+- [py_descriptive.pdf](dae/py_descriptive.pdf)
 - [lm.pdf](dae/lm.pdf)
 
 
