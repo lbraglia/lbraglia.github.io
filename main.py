@@ -13,7 +13,7 @@ def update_docindex():
         for d in dirs_in_toc:
             print(d, "\n", file = f)
             p = Path(d)
-            paths = p.glob("*.pdf")
+            paths = p.iterdir()
             for p in sorted(paths):
                 print('- [{0}]({1})'.format(p.name, p),
                       file = f)
