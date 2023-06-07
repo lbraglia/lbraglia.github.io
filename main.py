@@ -1,23 +1,23 @@
 import os
 import sys
+from pathlib import Path
 
-def update_docindex(outfile = 'doc/index.md'):
-    # save stdout
-    original_stdout = sys.stdout
-    with open(outfile, 'w') as f:
-        # redirect standard output to file
-        sys.stdout = f
-        for root, dirs, files in os.walk("doc"):
-            level = root.replace("doc", '').count(os.sep) - 1 
-            if level == -1: # non mostrare doc
-                continue
-            # print directory as subtitle
-            print("{0} \n".format(os.path.basename(root)))
-            # print file and links
-            for f in files:
-                print('- [{}]({})'.format(f, os.path.join(os.path.basename(root), f)))
-            print("\n")
-    sys.stdout = original_stdout
+def update_docindex():
+    # docdir
+    docdir = Path("doc")
+    os.chdir(docdir)
+    # dir to be used in the toc
+    dirs_in_toc = ["misc", "math", "cs", "dae"]
+
+    with open('index.md', 'w') as f:
+        for d in dirs_in_toc:
+            print(d, "\n", file = f)
+            p = Path(d)
+            paths = p.glob("*.pdf")
+            for p in sorted(paths):
+                print('- [{0}]({1})'.format(p.name, p),
+                      file = f)
+            print("\n\n", file = f)
             
 if __name__ == '__main__':
     update_docindex()
