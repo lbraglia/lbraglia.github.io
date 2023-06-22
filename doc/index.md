@@ -29,6 +29,8 @@ dae
 - [py_descriptive.pdf](dae/py_descriptive.pdf)
 - [py_linalg.pdf](dae/py_linalg.pdf)
 - [py_prob.pdf](dae/py_prob.pdf)
+- [py_sim.pdf](dae/py_sim.pdf)
+- [py_tests.pdf](dae/py_tests.pdf)
 
 
 
