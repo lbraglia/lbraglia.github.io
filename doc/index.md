@@ -25,12 +25,11 @@ cs
 
 dae 
 
-- [lm.pdf](dae/lm.pdf)
-- [py_descriptive.pdf](dae/py_descriptive.pdf)
-- [py_linalg.pdf](dae/py_linalg.pdf)
-- [py_prob.pdf](dae/py_prob.pdf)
-- [py_sim.pdf](dae/py_sim.pdf)
-- [py_tests.pdf](dae/py_tests.pdf)
+- [descriptive.pdf](dae/descriptive.pdf)
+- [linalg.pdf](dae/linalg.pdf)
+- [prob.pdf](dae/prob.pdf)
+- [sim.pdf](dae/sim.pdf)
+- [tests.pdf](dae/tests.pdf)
 
 
 
