@@ -7,7 +7,7 @@ def update_docindex():
     docdir = Path("doc")
     os.chdir(docdir)
     # dir to be used in the toc
-    dirs_in_toc = ["misc", "math", "cs", "dae"]
+    dirs_in_toc = ["misc", "math", "cs", "lab"]
 
     with open('index.md', 'w') as f:
         for d in dirs_in_toc:
