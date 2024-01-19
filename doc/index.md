@@ -8,10 +8,8 @@ misc
 math 
 
 - [calculus.pdf](math/calculus.pdf)
-- [inference.pdf](math/inference.pdf)
 - [linear_algebra.pdf](math/linear_algebra.pdf)
 - [precalculus.pdf](math/precalculus.pdf)
-- [probability.pdf](math/probability.pdf)
 
 
 
