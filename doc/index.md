@@ -38,6 +38,7 @@ uni
 
 - [calcolo_differenziale.pdf](uni/calcolo_differenziale.pdf)
 - [fundamental_concepts.pdf](uni/fundamental_concepts.pdf)
+- [statistical_models.pdf](uni/statistical_models.pdf)
 - [stochastic_processes.pdf](uni/stochastic_processes.pdf)
 - [supervised_statlearn.pdf](uni/supervised_statlearn.pdf)
 
