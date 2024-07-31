@@ -37,6 +37,7 @@ lab
 uni 
 
 - [calcolo_differenziale.pdf](uni/calcolo_differenziale.pdf)
+- [data_mining.pdf](uni/data_mining.pdf)
 - [fundamental_concepts.pdf](uni/fundamental_concepts.pdf)
 - [statistical_models.pdf](uni/statistical_models.pdf)
 - [stochastic_processes.pdf](uni/stochastic_processes.pdf)
