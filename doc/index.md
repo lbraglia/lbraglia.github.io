@@ -25,8 +25,9 @@ cs
 
 lab 
 
-- [r_lm.pdf](lab/r_lm.pdf)
-- [r_prob.pdf](lab/r_prob.pdf)
+- [lm_r.pdf](lab/lm_r.pdf)
+- [ordinal_r.pdf](lab/ordinal_r.pdf)
+- [prob_r.pdf](lab/prob_r.pdf)
 
 
 
