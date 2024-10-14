@@ -22,9 +22,14 @@ read/write `xlsx` file in R.
 ### Python packages
 
 [xlcrf](https://pypi.org/project/xlcrf/): a tool (library + command
-line script) to create xlsx files for data collection with input
-validation, given a standard description of the dataset (xlsx file as
-well).
+line script) to create `.xlsx` files for data collection with input
+validation, provided a standard description of the dataset (`.xlsx` file
+as well).
+
+[tlfs](https://pypi.org/project/tlfs/): a tool (library + command line
+script) to create a `.docx` TLFs (Tables, Listings, Figures shells),
+provided a standard description of the report (using an `.xlsx` file
+as well).
 
 
 ### Web apps
@@ -32,9 +37,13 @@ well).
 [rioweb](https://gallery.shinyapps.io/rioweb): a free, simple, file
 transfer service for common statistical file formats. 
 
-[webxlcrf](https://share.streamlit.io/lbraglia/webxlcrf/main):
+[webxlcrf](https://webxlcrf.streamlit.app):
 basically [xlcrf](https://pypi.org/project/xlcrf/), but repacked as an
 online [streamlit](https://streamlit.io) service.
+
+[webtlfs](https://webtlfs.streamlit.app): basically
+[tlfs](https://pypi.org/project/tlfs/), but repacked as an online
+[streamlit](https://streamlit.io) service.
 
 [ifndemo](https://lbraglia.shinyapps.io/ifndemo): an old journals
  impact factor explorer (with data from 2014!).
