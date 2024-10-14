@@ -22,14 +22,13 @@ read/write `xlsx` file in R.
 ### Python packages
 
 [xlcrf](https://pypi.org/project/xlcrf/): a tool (library + command
-line script) to create `.xlsx` files for data collection with input
-validation, provided a standard description of the dataset (`.xlsx` file
-as well).
+line script) to create `xlsx` files for data collection with input
+validation, provided a standard description of the dataset (using an
+`xlsx` file as well).
 
 [tlfs](https://pypi.org/project/tlfs/): a tool (library + command line
-script) to create a `.docx` TLFs (Tables, Listings, Figures shells),
-provided a standard description of the report (using an `.xlsx` file
-as well).
+script) to create a `docx` TLFs (Tables, Listings, Figures shells),
+provided a standard description of the report (using an `xlsx` file).
 
 
 ### Web apps
