@@ -25,11 +25,6 @@ cs
 
 lab 
 
-- [py_descriptive.pdf](lab/py_descriptive.pdf)
-- [py_linalg.pdf](lab/py_linalg.pdf)
-- [py_prob.pdf](lab/py_prob.pdf)
-- [py_sim.pdf](lab/py_sim.pdf)
-- [py_tests.pdf](lab/py_tests.pdf)
 - [r_lm.pdf](lab/r_lm.pdf)
 - [r_prob.pdf](lab/r_prob.pdf)
 
