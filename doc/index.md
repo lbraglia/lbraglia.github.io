@@ -33,6 +33,7 @@ lab
 
 uni 
 
+- [bayesian_inference.pdf](uni/bayesian_inference.pdf)
 - [calcolo_differenziale.pdf](uni/calcolo_differenziale.pdf)
 - [data_mining.pdf](uni/data_mining.pdf)
 - [discrete_math.pdf](uni/discrete_math.pdf)
