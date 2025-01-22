@@ -23,6 +23,12 @@ cs
 
 
 
+biostat 
+
+- [biostat.pdf](biostat/biostat.pdf)
+
+
+
 lab 
 
 - [lm_r.pdf](lab/lm_r.pdf)
