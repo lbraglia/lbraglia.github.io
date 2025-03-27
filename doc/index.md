@@ -45,6 +45,7 @@ uni
 - [discrete_math.pdf](uni/discrete_math.pdf)
 - [fundamental_concepts.pdf](uni/fundamental_concepts.pdf)
 - [machine_learning.pdf](uni/machine_learning.pdf)
+- [multivariate_statistics.pdf](uni/multivariate_statistics.pdf)
 - [statistical_models.pdf](uni/statistical_models.pdf)
 - [stochastic_processes.pdf](uni/stochastic_processes.pdf)
 - [supervised_statlearn.pdf](uni/supervised_statlearn.pdf)
