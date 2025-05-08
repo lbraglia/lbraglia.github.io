@@ -1,15 +1,6 @@
-misc 
+biostat 
 
-- [canzoniere.pdf](misc/canzoniere.pdf)
-- [ricettario.pdf](misc/ricettario.pdf)
-
-
-
-math 
-
-- [calculus.pdf](math/calculus.pdf)
-- [linear_algebra.pdf](math/linear_algebra.pdf)
-- [precalculus.pdf](math/precalculus.pdf)
+- [biostat.pdf](biostat/biostat.pdf)
 
 
 
@@ -23,17 +14,26 @@ cs
 
 
 
-biostat 
-
-- [biostat.pdf](biostat/biostat.pdf)
-
-
-
 lab 
 
 - [lm_r.pdf](lab/lm_r.pdf)
 - [ordinal_r.pdf](lab/ordinal_r.pdf)
 - [prob_r.pdf](lab/prob_r.pdf)
+
+
+
+math 
+
+- [calculus.pdf](math/calculus.pdf)
+- [linear_algebra.pdf](math/linear_algebra.pdf)
+- [precalculus.pdf](math/precalculus.pdf)
+
+
+
+misc 
+
+- [canzoniere.pdf](misc/canzoniere.pdf)
+- [ricettario.pdf](misc/ricettario.pdf)
 
 
 
