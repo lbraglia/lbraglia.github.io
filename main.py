@@ -1,36 +1,32 @@
-import os
 from pathlib import Path
 
 debug = False
 
 
 def update_index_recursive(d="doc"):
-    # os.chdir(d)
-    d_content = sorted(Path(".").iterdir())
-    index_path = "index.md"
+    index_fname = "index.md"
+    index_path = Path(d + "/" + index_fname)
     with open(index_path, 'w') as index:
-        for d in d_content:
-            if d.name != index_path:
+        for d in sorted(Path(d).iterdir()):
+            if d.name != index_fname:
                 # now d is a directory
                 print(d.name, "\n", file=index)
-                # p = Path(d)
-                fs = d.iterdir() # files within
-                for f in sorted(fs):
+                for f in sorted(d.iterdir()):
+                    # f = f.relative_to(d)
                     print(f"- [{f.name}]({f})", file=index)
                 print("\n\n", file=index)
 
 
 def update_index_flat(d="slides/corso"):
-    # os.chdir(d)
-    d_content = sorted(Path(d).iterdir())
-    index_path = "index.md"
+    index_fname = "index.md"
+    index_path = Path(d + "/" + index_fname)
     with open(index_path, 'w') as index:
-        for f in d_content:
+        for f in sorted(Path(d).iterdir()):
             f = f.relative_to(d)
-            if f.name != index_path:
+            if f.name != index_fname:
                 print(f"- [{f.name}]({f.name})", file=index)
 
 
 if __name__ == '__main__':
-    # update_index_recursive("doc")
-    update_index_flat("./slides/corso")
+    update_index_recursive("doc")
+    update_index_flat("slides/corso")
