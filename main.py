@@ -1,5 +1,6 @@
 from pathlib import Path
 
+
 def update_index_recursive(root="doc"):
     index_fname = "index.md"
     index_path = Path(root + "/" + index_fname)
