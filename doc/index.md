@@ -34,6 +34,7 @@ misc
 
 - [canzoniere.pdf](misc/canzoniere.pdf)
 - [ricettario.pdf](misc/ricettario.pdf)
+- [varie.pdf](misc/varie.pdf)
 
 
 
