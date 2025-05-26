@@ -1,2 +1,0 @@
-- [intro.pdf](intro.pdf)
-- [revisioni_metanalisi.pdf](revisioni_metanalisi.pdf)

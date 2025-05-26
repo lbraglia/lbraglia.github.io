@@ -26,4 +26,4 @@ def update_index_flat(root="slides/corso"):
 
 if __name__ == '__main__':
     update_index_recursive("doc")
-    update_index_flat("slides/corso")
+    # update_index_flat("slides/corso")
