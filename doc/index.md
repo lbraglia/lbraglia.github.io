@@ -38,6 +38,14 @@ misc
 
 
 
+slides 
+
+- [intro.pdf](slides/intro.pdf)
+- [rct.pdf](slides/rct.pdf)
+- [revisioni_metanalisi.pdf](slides/revisioni_metanalisi.pdf)
+
+
+
 uni 
 
 - [analisi_dati_longitudinali.pdf](uni/analisi_dati_longitudinali.pdf)
