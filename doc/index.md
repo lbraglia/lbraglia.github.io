@@ -48,6 +48,7 @@ slides
 
 uni 
 
+- [advanced_prob.pdf](uni/advanced_prob.pdf)
 - [analisi_dati_longitudinali.pdf](uni/analisi_dati_longitudinali.pdf)
 - [bayesian_inference.pdf](uni/bayesian_inference.pdf)
 - [calcolo_differenziale.pdf](uni/calcolo_differenziale.pdf)
