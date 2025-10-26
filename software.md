@@ -40,6 +40,9 @@ transfer service for common statistical file formats.
 basically [xlcrf](https://pypi.org/project/xlcrf/), but repacked as an
 online [streamlit](https://streamlit.io) service.
 
+[protgen](https://protgen.streamlit.app): quickie with clinical studies
+protocol (templates) generation.
+
 [webtlfs](https://webtlfs.streamlit.app): basically
 [tlfs](https://pypi.org/project/tlfs/), but repacked as an online
 [streamlit](https://streamlit.io) service.
