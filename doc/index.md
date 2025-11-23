@@ -14,14 +14,6 @@ cs
 
 
 
-lab 
-
-- [lm_r.pdf](lab/lm_r.pdf)
-- [ordinal_r.pdf](lab/ordinal_r.pdf)
-- [prob_r.pdf](lab/prob_r.pdf)
-
-
-
 math 
 
 - [calculus.pdf](math/calculus.pdf)
