@@ -19,6 +19,7 @@ math
 - [calculus.pdf](math/calculus.pdf)
 - [linear_algebra.pdf](math/linear_algebra.pdf)
 - [precalculus.pdf](math/precalculus.pdf)
+- [probability.pdf](math/probability.pdf)
 
 
 
