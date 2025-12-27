@@ -6,6 +6,7 @@ biostat
 
 cs 
 
+- [bash.pdf](cs/bash.pdf)
 - [c.pdf](cs/c.pdf)
 - [python.pdf](cs/python.pdf)
 - [r.pdf](cs/r.pdf)
