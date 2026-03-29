@@ -8,6 +8,7 @@ cs
 
 - [bash.pdf](cs/bash.pdf)
 - [c.pdf](cs/c.pdf)
+- [nix.pdf](cs/nix.pdf)
 - [python.pdf](cs/python.pdf)
 - [r.pdf](cs/r.pdf)
 - [sas.pdf](cs/sas.pdf)
