@@ -4,5 +4,5 @@ title: Contacts
 permalink: /contacts/
 ---
 
-[e-mail](mailto:lbraglia@gmail.com) / [GitHub](http://github.com/lbraglia)
+[e-mail](mailto:lbraglia@gmail.com) / [GitHub](http://github.com/lbraglia) / [Codeberg](http://codeberg.org/lbraglia)
 
