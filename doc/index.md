@@ -51,6 +51,7 @@ uni
 - [data_mining.pdf](uni/data_mining.pdf)
 - [discrete_math.pdf](uni/discrete_math.pdf)
 - [fundamental_concepts.pdf](uni/fundamental_concepts.pdf)
+- [latent_variable_models.pdf](uni/latent_variable_models.pdf)
 - [machine_learning.pdf](uni/machine_learning.pdf)
 - [modern_stats.pdf](uni/modern_stats.pdf)
 - [multivariate_statistics.pdf](uni/multivariate_statistics.pdf)
